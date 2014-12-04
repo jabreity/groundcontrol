@@ -1,3 +1,11 @@
+I saw this project going on, and figured I could help, if it's written in python.  Nothing against PHP - actually everything against PHP.  It's just so frought with issues, python is a much more stable, mature language.  I'm willing to donate you the base of a multi-threaded server implementaiton, and help you with the crud implementation.  Let me know if you like this idea - it's a faster, proven, cross-platform solution.  Not that PHP can't be; I just don't like monitoring solutions that have this heavy webserver they are dragging around to do their bidding.
+
+All the best,
+
+Jason "jabreity" Breitwieser
+jason@ori.net
+
+
 groundcontrol
 =============
 
